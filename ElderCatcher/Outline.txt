@@ -1,0 +1,85 @@
+App outline
+
+-----------------------------------------Front Page--------------------------------------------------------------
+***look at the frontPage picture in the outline pics file***
+
+The background color is a very light yellow
+
+4 buttons in the middle of the Page
+-Chat
+-Schedule
+-Practice
+-Help
+
+*the 'help' button has the background color of red
+
+----Functions of the buttons----
+
+The 'chat' button opens the chat Page
+The 'Schedule' button opens the schedule Page
+The 'Practice' button opens the practice page
+The 'Help' button is just there for now     **should and will be adjusted in the future
+
+
+
+----------------------------------Chat Page-------------------------------------------------
+***Look at the 'Chat' picture in the outline pic file***
+
+The background color, even though its purple in the picture, will be the color of light yellow as in the front page
+
+Consists of
+-Virtual Face
+-Chatting Box
+
+----Virtual Face----
+covers a bit more than half of the screen of the phone
+
+*For now, keep this area empty, just leave space for it
+
+**the face will move according to the response the AI gives (to be implemented in the future)
+
+
+----Chatting Box----
+the leftover parts of the screen
+
+User is able to scroll to see the previous chats
+
+*When the user opens the keyboard on the phone, the virtual face disappears for a moment for the keyboard to take space
+
+
+
+-----------------------------------------Schedule Page------------------------------------------
+***look at the 'schedule' picture in the outline pic file***
+
+The background color is a very light yellow
+
+Consists of
+-Calender
+-the day's agenda
+
+----Calender----
+The Calender has the month, date, and the day written on the top
+
+it has the basic dates and each day's basic agenda written in the Calender
+
+
+----the day's agenda----
+It is like a small box on the bottom of the screen
+it has the agenda for the day written by the chronological order
+
+*the app rings the alarm whenever its time for a thing we set on the schedule
+
+
+**the schedule for its elderly user will be able to be accessed by the caretaker and the user
+
+
+
+-----------------------------------Practice Page------------------------------------------
+***look at the 'practice' picture in the outline pic file***
+
+The background color is a very light yellow
+
+Multiple one player games are available for the user in this page
+
+The goal of the games are to keep the elderly entertained or to prevent alzheimer's
+ex) solitaire, sudoku, card memory game, etc
